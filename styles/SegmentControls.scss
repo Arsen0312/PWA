@@ -1,0 +1,18 @@
+:root {
+    --bg-color-sts: #F7F7F7;
+    --bg-color-active-sts: #FFFFFF;
+
+    --text-disabled-sts: #6E7076;
+    --text-disabled-hover-sts: #36394A;
+    --text-active-sts: #5C80FD;
+}
+
+.textStyle {
+    font-weight: 600;
+    font-size: 12px;
+    leading-trim: NONE;
+    line-height: 18px;
+    letter-spacing: 4%;
+    text-align: center;
+
+}
