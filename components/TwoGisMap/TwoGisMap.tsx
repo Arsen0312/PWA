@@ -10,7 +10,7 @@ export const TwoGisMap = () => {
             map = new mapglAPI.Map('map-container', {
                 center: [74.6122, 42.8746],
                 zoom: 13,
-                key: '9fe3f0d1-1028-4fd1-8e98-e50e0df4ed05',
+                key: process.env.twoGisApiKey,
                 style: "e05ac437-fcc2-4845-ad74-b1de9ce07555"
             });
         });

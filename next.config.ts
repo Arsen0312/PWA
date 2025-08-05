@@ -2,17 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-    images: {
-        remotePatterns: [
-            {
-                protocol: 'http',
-                hostname: 'instagram.ffru7-1.fna.fbcdn.net',
-            },
-            {
-                protocol: 'https',
-                hostname: 'instagram.ffru7-1.fna.fbcdn.net',
-            },
-        ]
+    env: {
+        twoGisApiKey: "9fe3f0d1-1028-4fd1-8e98-e50e0df4ed05",
     }
 };
 
