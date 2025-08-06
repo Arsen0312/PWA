@@ -1,0 +1,4 @@
+#Wed Aug 06 19:38:16 KGT 2025
+base.0=/Users/ernisdujsoev/Desktop/PWA/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

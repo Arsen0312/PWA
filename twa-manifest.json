@@ -3,7 +3,7 @@
   "host": "pwa-lac-pi.vercel.app",
   "name": "It's app PWA",
   "launcherName": "PWA",
-  "display": "fullscreen",
+  "display": "standalone",
   "themeColor": "#3367D6",
   "themeColorDark": "#000000",
   "navigationColor": "#000000",
@@ -13,7 +13,7 @@
   "backgroundColor": "#3367D6",
   "enableNotifications": true,
   "startUrl": "/?source=pwa",
-  "iconUrl": "https://pwa-lac-pi.vercel.app/app/favicon.svg",
+  "iconUrl": "https://pwa-lac-pi.vercel.app/assets/favicon.svg",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/ernisdujsoev/Desktop/PWA/android.keystore",

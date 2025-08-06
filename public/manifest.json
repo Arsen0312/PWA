@@ -3,7 +3,7 @@
   "name": "It's app PWA",
   "icons": [
     {
-      "src": "/public/assets/favicon.svg",
+      "src": "/assets/favicon.svg",
       "type": "image/svg+xml",
       "sizes": "256x256"
     }
